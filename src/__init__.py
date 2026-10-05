@@ -1,0 +1,1 @@
+"""PointsYeah MCP Middleware Package."""

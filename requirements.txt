@@ -1,0 +1,8 @@
+# Core Production Dependencies for PointsYeah MCP Middleware
+mcp>=2.3.0
+starlette>=0.40.0
+uvicorn>=0.30.0
+httpx>=0.27.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+slowapi>=0.1.9

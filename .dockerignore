@@ -1,0 +1,25 @@
+# Git & System
+.git/
+.gitignore
+.DS_Store
+
+# Python & Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Environment Secrets
+.env
+.env.*
+!.env.example
+
+# Test & Docs Scratch Files
+tests/
+api_endpoints_raw.json
+*.log

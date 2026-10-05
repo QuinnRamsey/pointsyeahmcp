@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "pointsyeah": {
+      "url": "https://<your-cloud-run-url>/sse?token=<YOUR_SERVER_API_KEY>",
+      "serverUrl": "https://<your-cloud-run-url>/sse?token=<YOUR_SERVER_API_KEY>",
+      "headers": {
+        "Authorization": "Bearer <YOUR_SERVER_API_KEY>",
+        "X-PointsYeah-API-Key": "<YOUR_POINTSYEAH_API_KEY>"
+      }
+    }
+  }
+}
